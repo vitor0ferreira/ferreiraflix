@@ -8,7 +8,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'daredevil-banner': "url('/assets/daredevil-banner.jpg')",
+        'daredevil-image': "url('/daredevil-banner.jpg')",
+        'mrobot-banner': "url('/Elliot-MrRobot-Banner.jpg')",
+        'profile-photo': "url('https://avatars.githubusercontent.com/vitor0ferreira')",
       },
     },
   },
